@@ -1,0 +1,3 @@
+name: Kavish Manzoor
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
